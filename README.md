@@ -21,3 +21,5 @@ This is a regular paragraph.
 This is another regular paragraph.
 
 hello <a name="n" href="www.google.com">_you_</a>
+
+[some text](<javascript:alert('xss')>)
