@@ -16,6 +16,6 @@ This is a regular paragraph.
 
 ** this is bold text.**
 
-** this is bold text.</span><script>alert('xss');</script>**
+** this is bold text.</span><script>alert('xss');</script><span>**
 
 This is another regular paragraph.
