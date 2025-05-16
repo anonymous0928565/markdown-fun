@@ -20,4 +20,4 @@ This is a regular paragraph.
 
 This is another regular paragraph.
 
-hello <a name="n" href="javascript:alert('xss')">_you_</a>
+hello <a name="n" href="www.google.com">_you_</a>
