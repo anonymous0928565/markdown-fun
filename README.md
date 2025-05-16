@@ -19,3 +19,5 @@ This is a regular paragraph.
 ** this is bold text.</span><p>oh</p><script>alert('xss');</script><span>**
 
 This is another regular paragraph.
+
+hello <a name="n" href="javascript:alert('xss')">_you_</a>
